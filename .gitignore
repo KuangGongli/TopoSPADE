@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+checkpoints/
+results/
+datasets/
+*.DS_Store
+.idea/

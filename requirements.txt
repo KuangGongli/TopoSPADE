@@ -1,0 +1,7 @@
+# 论文实验环境：Python 3.12 + PyTorch 2.0.1（Windows 11，CUDA 与驱动需与本机匹配）
+torch==2.0.1
+torchvision==0.15.2
+numpy>=1.19.0
+Pillow>=8.0.0
+dominate>=2.6.0
+scikit-image>=0.18.0
